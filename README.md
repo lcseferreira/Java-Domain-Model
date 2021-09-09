@@ -9,7 +9,7 @@
     About
 </h3>
 <p>
-    This is a simple project to learn more about the <strong>domain model and how to implement in Java (Spring)</strong>. 
+    This is a simple project to learn more about the <strong>domain model and how to implement it in Java (Spring)</strong>. 
 </p>
 <h3>
     References
